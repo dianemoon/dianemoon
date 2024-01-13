@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diane Moon!
-- 💼 I'm a Code Review Engineer at Codesmith.
-- 🌱 I’m currently learning Python and AWS deployment.
-- 💞 I’m looking to collaborate on full stack projects. 
+- 💼 I'm a Code Review Engineer at Codesmith
+- 🌱 Currently learning Python and AWS deployment
+- 💞 Looking to collaborate on full stack projects
 - 📫 How to reach me: dianejmoon@gmail.com | <a href="https://linkedin.com/in/dianejmoon/">LinkedIn</a>
 
 <!---
