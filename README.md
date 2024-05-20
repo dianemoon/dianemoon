@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diane Moon!
-- 💼 I'm a Code Review Engineer at Codesmith
+- 💼 I'm a Software Developer Consultant at Macedon Technologies
 - 🌱 Currently learning Python and AWS deployment
 - 💞 Looking to collaborate on full stack projects
 - 📫 How to reach me: dianejmoon@gmail.com | <a href="https://linkedin.com/in/dianejmoon/">LinkedIn</a>
